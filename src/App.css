@@ -1,0 +1,11 @@
+.AppBar a {
+  color: black;
+  text-decoration: none;
+  margin-right: 16px;
+}
+
+.AppBar button {
+  background-color: black;
+  color: white;
+  margin-left: 12px;
+}
